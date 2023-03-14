@@ -2,5 +2,5 @@
 
 ## An image
 
-![Water color image](/mage_1.jpg)
+![Water color image](/image_1.jpg)
 
