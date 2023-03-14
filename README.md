@@ -2,5 +2,5 @@
 
 ## An image
 
-![Water color image](/jhrg.github.io/image_1.jpg)
+![Water color image](/mage_1.jpg)
 
