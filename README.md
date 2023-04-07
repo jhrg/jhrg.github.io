@@ -1,6 +1,11 @@
 # jhrg.github.io
 
-## An image
+## Images
+
+* [paper](/image_1.jpg)
+* [linen](image_2.jpg)
+
+-----
 
 ![Water color image](/image_1.jpg)
 
