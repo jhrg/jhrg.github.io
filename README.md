@@ -1,12 +1,18 @@
 # jhrg.github.io
 
 ## Images
-| Name & Link | QR Code |
+
+| Image | QR Code |
 | --------- | ------ |
+| image\_1.jpg | <img src="/image_1_qr.png" width="100" height="100"><br> |
+| image\_2.jpg | <img src="/image_2_qr.png" width="100" height="100"><br> |
+
+
 | [<img src="/image_1.jpg" height="100">](/image_1.jpg) | <img src="/image_1_qr.png" width="100" height="100"><br> |
 | [<img src="/image_2.jpg" height="100">](/image_2.jpg) | <img src="/image_2_qr.png" width="100" height="100"><br> |
 
 ## New Images
+
 | Image | QR Code |
 | --------- | ------ |
 | [<img src="/images/3613496A.jpg" height="100">](/images/3613496A.jpg) | <img src="https://jhrg.github.io/images/3613496A_QR.png" width="100" height="100" alt="QR"> <br> |
