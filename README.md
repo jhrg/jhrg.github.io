@@ -6,7 +6,7 @@
 
 ## New Images
 | Name & Link | QR Code |
-|: --------- :|: ------ :|
+| --------- | ------ |
 | [Snow](/images/3613496A.jpg) | <img src="https://jhrg.github.io/images/3613496A_QR.png" width="100" height="100" alt="QR"><br> |
 | [Cone](/images/B8B27308.jpg) | <img src="https://jhrg.github.io/images/B8B27308_QR.png" width="100" height="100" alt="QR"><br> |
 | [Scroll](/images/C0869C26.jpg) | <img src="https://jhrg.github.io/images/C0869C26_QR.png" width="100" height="100" alt="QR"><br> |
