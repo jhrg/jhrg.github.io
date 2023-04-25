@@ -1,8 +1,10 @@
 # jhrg.github.io
 
 ## Images
-[paper](/image_1.jpg)<img src="/image_1_qr.png" width="100" height="100"><br>
-[linen](/image_2.jpg)<img src="/image_2_qr.png" width="100" height="100"><br>
+| Name & Link | QR Code |
+| --------- | ------ |
+| [paper](/image_1.jpg) | <img src="/image_1_qr.png" width="100" height="100"><br> |
+| [linen](/image_2.jpg) | <img src="/image_2_qr.png" width="100" height="100"><br> |
 
 ## New Images
 | Name & Link | QR Code |
@@ -17,8 +19,7 @@
 | [Winter](/images/FullSizeR_4.jpg) | <img src="https://jhrg.github.io/images/FullSizeR_4_QR.png" width="100" height="100" alt="QR"><br> |
 | [Wave](/images/Untitled.jpg) | <img src="https://jhrg.github.io/images/Untitled_QR.png" width="100" height="100" alt="QR"><br> |
 
-// QR Codes built using https://www.the-qrcode-generator.com/. The
-// codes are static.
+// QR Codes built using https://www.the-qrcode-generator.com/. The codes are static.
 -----
 
 ![Water color image](/image_1.jpg)
