@@ -3,11 +3,7 @@
 ## Images
 
 | Image | QR Code |
-| --------- | ------ |
-| image\_1.jpg | <img src="/image_1_qr.png" width="100" height="100"><br> |
-| image\_2.jpg | <img src="/image_2_qr.png" width="100" height="100"><br> |
-
-
+| :--------: | ------ |
 | [<img src="/image_1.jpg" height="100">](/image_1.jpg) | <img src="/image_1_qr.png" width="100" height="100"><br> |
 | [<img src="/image_2.jpg" height="100">](/image_2.jpg) | <img src="/image_2_qr.png" width="100" height="100"><br> |
 
